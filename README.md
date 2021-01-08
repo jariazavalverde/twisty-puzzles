@@ -10,6 +10,6 @@ Colección de conmutadores y conjugados para rompecabezas de combinación. Aunqu
 
 * El inverso se representa por el operador postfijo (`'`) en la forma `A'`, para indicar que se debe realizar la secuencia inversa de `A`.
 
-* Un conjugado se representa por el operador infijo (`^`) en la forma `A`^`B`, para indicar que se debe realizar la secuencia `A` `B` `A'`, esto es: la primera secuencia `A`, seguida de la segunda secuencia `B`, seguida del inverso de la primera secuencia `A'`.
+* Un conjugado se representa por el operador infijo (`^`) en la forma `A^B`, para indicar que se debe realizar la secuencia `ABA'`, esto es: la primera secuencia `A`, seguida de la segunda secuencia `B`, seguida del inverso de la primera secuencia `A'`.
 
-* Un conmutador se representa entre corchetes en la forma [`A`, `B`], para indicar que se debe realizar la secuencia `A` `B` `A'` `B'`, esto es: la primera secuencia `A`, seguida de la segunda secuencia `B`, seguida del inverso de la primera secuencia `A'`, seguido del inverso de la segunda secuencia `B'`.
+* Un conmutador se representa entre corchetes en la forma `[A, B]`, para indicar que se debe realizar la secuencia `ABA'B'`, esto es: la primera secuencia `A`, seguida de la segunda secuencia `B`, seguida del inverso de la primera secuencia `A'`, seguido del inverso de la segunda secuencia `B'`.
