@@ -4,6 +4,7 @@ Colección de conmutadores y conjugados para rompecabezas de combinación. Aunqu
 
 ## Lista de rompecabezas
 
+* [Cubo de Rubik (3x3x3)](3x3x3.md)
 * [Venganza de Rubik (4x4x4)](4x4x4.md)
 
 ## Notación
